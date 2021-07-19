@@ -1,4 +1,4 @@
-# Rescue-App-webservice-
+# Rescue-App
 
 On transport, many issues can happen like if your car suddenly breaks down on the road, or an accident happens. First thing you will be doing is finding someone to help you,
 especially if you are travelling between two cities. It becomes harder to find help. This will lead to wasting your time to find a rescuer or someone to pull you up to a mechanic.
