@@ -17,9 +17,7 @@ Also, it makes it easier to get a mechanic to fix your car or do your maintenanc
 * ### Easy to Book & Quick Payments
 The app allows the user in the car repair service to book an immediate support as it tells the user about all the possible problems that could ever occur in a car 
 providing him with correct and adequate information to handle the problem and reduce cost incurred by incorrect diagnosis. 
-
 In the winch service, the user only sets his location and requests to get a winch. 
-
 So by making both services booking process easy, The app also allows the user to see the Estimated time of arrival and Estimated fare in advance 
 which means that the user will have an idea of what he will pay before requesting this service. 
 
