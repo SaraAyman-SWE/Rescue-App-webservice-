@@ -12,7 +12,7 @@ This project aims towards helping the people easily find help for their cars whe
 find a mechanic after 6 PM in Egypt. So, this project is aiming towards providing a rescue for the customer’s car anywhere at any time in Egypt. 
 Also, it makes it easier to get a mechanic to fix your car or do your maintenance while you are at your home without you taking it to a repairs center. 
 
-## System Benefits Or In Other Words What Makes This App Important
+## System Benefits 
  
 * ### Easy to Book & Quick Payments
 The app allows the user in the car repair service to book an immediate support as it tells the user about all the possible problems that could ever occur in a car 
